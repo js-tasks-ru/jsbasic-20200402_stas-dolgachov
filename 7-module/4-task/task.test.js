@@ -1,4 +1,4 @@
-import createElement from '../../../assets/lib/create-element.js';
+import createElement from '../../assets/lib/create-element.js';
 import StepSlider from './index.js';
 
 describe('7-module-4-task', () => {
